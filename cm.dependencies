@@ -1,14 +1,27 @@
 [
  {
-   "repository": "android_device_nvidia_shield-common",
-   "target_path": "device/nvidia/shield-common"
- },
- {
-   "repository": "android_kernel_nvidia_shield",
-   "target_path": "kernel/nvidia/shield"
- },
- {
-   "repository": "android_hardware_nvidia_power",
-   "target_path": "hardware/nvidia/power"
+   "repository": "CyanogenMod/android_hardware_nvidia_power",
+   "target_path": "hardware/nvidia/power",
+   "branch": "cm-13.0"
+},
+{
+   "repository": "CM-Shield/android_kernel_nvidia_shield",
+   "target_path": "kernel/nvidia/shield",
+   "branch": "cm-13.0-mrom"
+},
+{  
+   "repository": "CyanogenMod/android_device_nvidia_shield-common",
+   "target_path": "device/nvidia/shield-common",
+   "branch": "cm-13.0"
+},
+{
+   "repository": "Cm-Shield/proprietary_vendor_nvidia",
+   "target_path": "vendor/nvidia",
+   "branch": "cm-13.0"
+},
+{
+   "repository": "hunterd13/android_device_nvidia_shieldtablet",
+   "target_path": "device/nvidia/shieldtablet",
+   "branch": "cm-13.0"
  }
 ]

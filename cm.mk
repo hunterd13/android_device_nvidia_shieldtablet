@@ -10,5 +10,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="nvidia/shieldtablet/shieldtablet:6.0.1/:user/release-keys" \
     PRIVATE_BUILD_DESC="shieldtablet-user 6.0.1 release-keys"
 
-PRODUCT_NAME := liquid_shieldtablet
+PRODUCT_NAME := cm_shieldtablet
 PRODUCT_DEVICE := shieldtablet

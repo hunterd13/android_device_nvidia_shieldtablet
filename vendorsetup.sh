@@ -1,0 +1,2 @@
+add_lunch_combo full_shieldtablet-eng
+add_lunch_combo full_shieldtablet-userdebug
